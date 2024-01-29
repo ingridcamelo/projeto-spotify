@@ -1,5 +1,49 @@
-@media screen and (max-width: 1015pxx) {
+@media screen and (max-width: 1015px) {
     .offer__list-item {
         grid-template-columns: 1fr 1fr;
     }
+}
+
+@media only screen and (max-width: 600px) { 
+    .sidebar{
+        display: flex;
+        height: 30vh;
+        margin: 0 auto;
+        width: 79%;
+        height: fit-content;
+        flex-direction: column;
+        position: initial;
+    }
+    .main-container {
+        display: flex;
+        flex-direction: column;
+        margin: 0px auto;
+        height: fit-content;
+    }
+    .header__navigation {
+        flex-direction: column;
+        justify-content: flex-start;
+        gap: 20px;
+        margin: 10px 0px;
+    }
+    .header__search {
+        width: 100%
+    }
+    .playlist-container {
+        height: 90vh;
+        margin: 10px 0px;
+    }
+    .offer__list-item {
+        grid-template-columns: 1fr;
+    }
+    .offer_scroll-container{
+        max-height: 50vh;
+    }
+    .disclaimer-premium {
+        flex-direction: column;
+        gap: 10px;
+        align-items: center;
+        position: initial;
+    }
+    
 }
