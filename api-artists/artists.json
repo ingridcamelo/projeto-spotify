@@ -1,12 +1,12 @@
 {
     "artists": [
-      { "id": 1, "name": "Foo Fighters", "genre": "Rock", "urlImg": "https://i.scdn.co/image/ab67616100005174c884df599abc793c116cdf15" },
+      { "id": 1, "name": "Janis Joplin", "genre": "Rock", "urlImg": "https://i.scdn.co/image/ab67616d0000b273ca7e431effdfef8523a84325" },
       { "id": 2, "name": "Beyonce", "genre": "Pop", "urlImg": "https://i.scdn.co/image/ab67616d0000b2730e58a0f8308c1ad403d105e7" },
-      { "id": 3, "name": "Emicida", "genre": "Hip Hop", "urlImg": "https://i.scdn.co/image/ab67616100005174908b4b4bc90e1518b68b4068" },
-      { "id": 4, "name": "Chitãozinho e Xororó", "genre": "Sertanejo", "urlImg": "https://i.scdn.co/image/ab676161000051744606c59411c57f7b49588be4" },
-      { "id": 5, "name": "Mc Daniel", "genre": "Funk", "urlImg": "https://i.scdn.co/image/ab67616100005174e743c8596e3d5ab33a6ff3e5" },
-      { "id": 6, "name": "Arlindo Cruz", "genre": "Samba", "urlImg": "https://i.scdn.co/image/ab67616100005174181873f93056642d7b340839" },
-      { "id": 7, "name": "Caetano Veloso", "genre": "MPB", "urlImg": "https://i.scdn.co/image/ab67616100005174e98de50f36cf1aa4bf047757" },
+      { "id": 3, "name": "Cardi B", "genre": "Hip Hop", "urlImg": "https://i.scdn.co/image/ab6761610000e5ebb06326b1297d8aa321832805" },
+      { "id": 4, "name": "Marília Mendonça", "genre": "Sertanejo", "urlImg": "https://i.scdn.co/image/ab67616d0000b273680345244dcab673f3a1389d" },
+      { "id": 5, "name": "Ludmilla", "genre": "Funk", "urlImg": "https://i.scdn.co/image/ab67616d00001e0223b295fceda544ce77ef4d0e" },
+      { "id": 6, "name": "Beth Carvalho", "genre": "Samba", "urlImg": "https://i.scdn.co/image/ab67616100005174565b853f9e6046aaf0c251a1" },
+      { "id": 7, "name": "Cassia Eller", "genre": "MPB", "urlImg": "https://i.scdn.co/image/ab6761610000e5eb173e5ef74a4a36decb5dc213" },
       { "id": 8, "name": "Liniker", "genre": "Soul", "urlImg": "https://i.scdn.co/image/ab67616d0000b273748b2d7077a8db9c93517ce1"}
     ]
   }
